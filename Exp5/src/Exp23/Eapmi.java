@@ -1,0 +1,10 @@
+package Exp23;
+
+public class Eapmi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
